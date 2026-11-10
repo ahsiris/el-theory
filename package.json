@@ -1,0 +1,24 @@
+{
+  "name": "el-theory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsiris/el-theory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ahsiris/el-theory/issues"
+  },
+  "homepage": "https://github.com/ahsiris/el-theory#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
